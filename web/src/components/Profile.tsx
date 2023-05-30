@@ -6,7 +6,7 @@ export function Profile() {
 
   //Image, qual width and heith vai carregar a imagem, não a que vai exibir, exibir controlo no css
   return (
-    <div className="flex items-center gap-3 text-left">
+    <div className="flex items-center gap-3 text-lefts">
       <Image
         src={avatarUrl}
         width={40}
